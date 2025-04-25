@@ -31,7 +31,7 @@ Run the script using Python:
 python Pdf_to_word_converter.py
 ```
 
-## Instructions:
+## Instructions
 
 1. <b>Select a PDF file</b> by clicking "Browse" or by dragging a .pdf file into the entry box.
 2. <b>Enter the output file name</b> (without extension).
