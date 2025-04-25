@@ -28,7 +28,7 @@ pip install pdf2docx tkinterdnd2
 ## Usage
 Run the script using Python:
 ```bash
-python pdf_to_word_converter.py
+python Pdf_to_word_converter.py
 ```
 
 ## Instructions:
